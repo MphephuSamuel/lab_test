@@ -1,4 +1,4 @@
-# MAIN EXAM SEMESTER II 2023  
+
 **Module Code:** BICT332 LAB  
 
 ---
